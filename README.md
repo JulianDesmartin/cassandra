@@ -1,3 +1,4 @@
+test
 ![Cassandra Logo](cassandra-logo.png)
 
 # Cassandra Practical Works - template
